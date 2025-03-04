@@ -13,6 +13,26 @@
 
 [Nexitally 奶昔机场](https://nexitally.com/?PartnerCode=59a5e513fa344e9196c1519c2968aa90) 
 
+## **一元机场官网及官方地址**
+
+由于 **一元机场** 的官网地址可能会不定期更换，官方域名也可能有所调整。以下是当前可用的官方网站入口：
+
+- **官方推荐访问地址**：[一元机场.com](https://xn--4gq62f52gdss.com/)
+- **备用官网域名**：[一元机场.ink](https://xn--4gq62f52gdss.ink/) | [一元.net](https://xn--4gq62f.net/) | [一元.com](https://xn--4gq62f.com/)
+- **其他可用域名**：
+    - [一元机场.art](https://xn--4gq62f52gdss.art/)
+    - [一元机场.click](https://xn--4gq62f52gdss.click/)
+    - [一元机场.xyz](https://xn--4gq62f52gdss.xyz/)
+    - [一元机场.club](https://xn--4gq62f52gdss.club/)
+
+用户可以通过上述地址访问 **一元机场官网**，进行 **注册、登录、密码找回** 等操作。如发现无法访问，请关注官方渠道获取最新域名信息。
+
+📌 **相关资源**：
+
+- **GitHub 讨论**：[一元机场官网/官方地址 · Issue #1026](https://github.com/jackfrued/Python-100-Days/issues)
+- **GitHub 站点**：[yiyuanjichang/dizhi](https://github.com/yiyuanjichang/dizhi)
+- **TKWOSAI 评测文章**：[一元机场：廉价翻墙服务的全面评估](https://tkwosai.com/sites)
+
 ## 一元机场简介
 
 一元机场的名字听起来像只要一块钱就能搞定，实际上并不是这样。它成立于2002年，虽然时间不算长，但已经发展成一个相当大的机场。这个机场的节点主要用的是祁县路的月抛机器，虽然跟亚马逊、微软云这些大牌有关系，但节点的稳定性可能不太理想。宣传上说是某某专线，实际情况可能有些差别。
